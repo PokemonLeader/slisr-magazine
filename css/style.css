@@ -8,15 +8,10 @@
     margin-right: auto;
     width: 50%;
   }
-
-  .top-bar {
-    background: #333;
-    color: #fff;
-    padding: 0.5rem;
-  }
   
   .bottom-bar {
     background: #333;
+    text-align: center;
     color: #fff;
     padding: 0.1rem;
   }
@@ -27,7 +22,7 @@
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 0.7rem 2rem;
+    padding: 0.7rem 1.5rem;
   }
   
   .btn:hover {
