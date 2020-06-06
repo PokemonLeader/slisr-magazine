@@ -1,4 +1,4 @@
-const url = 'https://cdn.glitch.com/386d958f-452c-434a-b5ad-64eeeb7af7c6%2FMagazine.pdf?v=1591270366390';
+const url = 'https://pokemonleader.github.io/slisr-magazine/doc/magazine.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
