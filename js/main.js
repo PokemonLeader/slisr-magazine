@@ -1,4 +1,4 @@
-const url = 'http://www.magazineby10s.ml/doc/magazine.pdf';
+const url = 'http://www.magazineby11s.ml/doc/magazine.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
