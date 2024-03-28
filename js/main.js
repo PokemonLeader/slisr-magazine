@@ -1,4 +1,4 @@
-const url = 'https://pokemonleader.github.io/slisr-magazine/doc/magazine.pdf';
+const url = '../doc/magazine.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
